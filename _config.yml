@@ -6,8 +6,3 @@ theme-font: standard
 theme-color: light
 permalink: /:slugified_categories/:title:output_ext
 
-plugins:
-  - jekyll-redirect-from
-
-whitelist:
-  - jekyll-redirect-from
