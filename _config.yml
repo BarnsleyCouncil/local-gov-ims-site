@@ -1,0 +1,13 @@
+url: "https://localgovims.digital" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Future IMS Project" # the name of your site, e.g. ACME Corp.
+description: Looking to offer a viable and sustainable alternative to the current market offerings for income management systems, for local authorities and public sector bodies.
+theme-font: standard
+theme-color: light
+permalink: /:slugified_categories/:title:output_ext
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from

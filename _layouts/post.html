@@ -1,0 +1,31 @@
+---
+layout: master
+---
+
+<section class="section-header__banner container-fluid" style="background-image: url({{ "/assets/images/masthead-" | append: page.category | downcase | append: ".jpg" | relative_url }})">
+</section>
+
+{% include sub-header.html %}
+
+<section class="section blogposts">
+    <div class="container">
+        <article>
+            <h3 class="blogposts__exerpt">{{ page.excerpt }}</h3>
+
+            <div class="umb-grid">
+                <div class="">
+                    <div >
+                        <div class="row clearfix">
+                            <div class="col-md-12 column">
+                                <div class="post">
+                                    {{ content }}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </article>
+    </div>
+</section>

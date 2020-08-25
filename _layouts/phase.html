@@ -1,0 +1,38 @@
+---
+layout: master
+---
+
+<section class="section-header__banner container-fluid" style="background-image: url({{ "/assets/images/masthead-" | append: page.category | downcase | append: ".jpg" | relative_url }})">
+</section>
+
+{% include sub-header.html %}
+
+{{ content }}
+
+<div class="container blogposts">
+
+    {% for post in site.posts %}
+    {% if post.categories contains page.category %}
+    <div class="w-100">
+        <a href="{{ post.url }}" class="blogpost">
+            <div class="row">
+                <!--
+                <div class="col-md-3">
+                    <div class="blogpost__background" style="background-image: url('@(post.SmallImage?.Url)')">
+                    </div>
+                </div>
+                -->
+                <div class="col-md-12">
+                    <small class="blogpost__date">{{ post.date | date_to_long_string }} </small>
+                    <h3 class="blogpost__title">{{ post.title }}</h3>
+                    <div class="blogpost__excerpt">
+                        {{ post.excerpt }}
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+    {% endif %}
+    {% endfor %}
+
+</div>

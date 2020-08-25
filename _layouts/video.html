@@ -1,0 +1,31 @@
+---
+layout: master
+---
+
+{% include sub-header.html %}
+
+<section class="section blogposts">
+    <div class="container">
+        <article>
+            <div class="umb-grid">
+                <div class="">
+                    <div >
+                        <div class="row clearfix">
+                            <div class="col-md-12 column">
+                                <div class="video-container">
+                                    <iframe class="video" src="https://www.youtube.com/embed/{{ page.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <p><a target="_blank" href="https://youtu.be/{{ page.video }}">View on YouTube</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <h3 class="blogposts__exerpt">{{ page.excerpt }}</h3>
+
+            {{ content }}
+        </article>
+        <p>&nbsp;</p></p>
+    </div>
+</section>

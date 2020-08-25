@@ -1,0 +1,21 @@
+<!-- SUBHEADER -->
+<div class="container-fluid section-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-left pl-4">
+                <ul class="breadcrumb-list">
+                    <li class="breadcrumb-list_item"><a class="breadcrumb-list_item_link" href="{{ site.url }}">Home</a></li>
+                    {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+                    {% for crumb in crumbs offset: 1 %}
+                        {% if forloop.last == false %}
+                        <li class="breadcrumb-list_item breadcrumb-list_item--active">|</li>
+                        <li class="breadcrumb-list_item breadcrumb-list_item"><a class="breadcrumb-list_item_link" href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a></li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+                <h1 class="">{{ page.title }}</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END OF SUBHEADER -->

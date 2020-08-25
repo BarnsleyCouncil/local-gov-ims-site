@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en-gb">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <meta name="description" content="{{ page.description }}">
+    <meta name="author" content="Barnsley MBC">
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700|Lato:300,400,900|Merriweather:300,700,700i,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
+    <link rel="stylesheet" href="{{ "/assets/css/vendor.css" | relative_url }}" />
+    <link rel="stylesheet" href="{{ "/assets/css/RTE.css" | relative_url }}" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+    <script src="https://kit.fontawesome.com/d0aaac0056.js"></script>
+    <link rel="stylesheet" type="text/css" href="//wpcc.io/lib/1.0.2/cookieconsent.min.css" />
+    <script src="//wpcc.io/lib/1.0.2/cookieconsent.min.js"></script>
+    <script>window.addEventListener("load", function () { window.wpcc.init({ "corners": "small", "colors": { "popup": { "background": "#606060", "text": "#ffffff", "border": "#f9f9f9" }, "button": { "background": "#f9f9f9", "text": "#000000" } }, "border": "thin", "transparency": "10", "fontsize": "small" }) });</script>
+</head>
+
+<body class="frontpage theme-font--{{ site.theme-font }} theme-color--{{ site.theme-color }}">
+
+    {% include header.html %}
+
+    <main>
+        {{ content}}
+    </main>
+    
+    {% include social-media-links.html %}
+
+    {% include footer.html %}
+
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js"></script>
+    <script src="{{ "/assets/scripts/vendor/meanmenu.js" | relative_url }}"></script>
+    <script src="{{ "/assets/scripts/vendor/slippry-slider.js" | relative_url }}"></script>
+    <script src="{{ "/assets/scripts/vendor/counter.js" | relative_url }}"></script>
+    <script src="{{ "/assets/scripts/vendor/masonry.js" | relative_url }}"></script>
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+    <script src="{{ "/assets/scripts/main.js" | relative_url }}"></script>
+
+</body>
+
+</html>
