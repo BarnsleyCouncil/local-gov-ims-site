@@ -2,6 +2,9 @@
 <div class="d-sm-none d-md-block desktop-nav">
     <ul>
         <li class="nav__item">
+            <a class="nav__link {% if page.category contains 'Home' %}active{% endif %}" href="/">Home</a>
+        </li>
+        <li class="nav__item">
             <a class="nav__link {% if page.category contains 'Discovery' %}active{% endif %}" href="/discovery/">Discovery</a>
         </li>
         <li class="nav__item">
@@ -16,6 +19,9 @@
 
 <div class="d-none mobile-nav">
     <ul>
+        <li>
+            <a href="/">Home</a>
+        </li>
         <li>
             <a href="/discovery/">Discovery</a>
         </li>

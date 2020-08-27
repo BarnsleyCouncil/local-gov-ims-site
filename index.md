@@ -2,36 +2,39 @@
 layout: master
 section: home
 title: "Home"
+category: Home
 ---
 
 <!-- HOMEPAGE CAROUSEL -->
-<ul id="carousel">
-    <li>
-        <a href="/">
-            <img src="{{ "/assets/images/carousel-bradford.jpg" | relative_url }}" alt="Face to face user research session with Bradford MDC during the Discovery phase" />
-        </a>
-    </li>
-    <li>
-        <a href="/">
-            <img src="{{ "/assets/images/carousel-huntingdonshire.jpg" | relative_url }}" alt="Group user research session with Huntingdonshire District Council during the Discovery phase" />
-        </a>
-    </li>
-    <li>
-        <a href="/">
-            <img src="{{ "/assets/images/carousel-disco-final-attendees.jpg" | relative_url }}" alt="A strong in-person audience at the final show &amp; tell of the Discovery phase." />
-        </a>
-    </li>
-    <li>
-        <a href="/">
-            <img src="{{ "/assets/images/carousel-switching-forces.jpg" | relative_url }}" alt="Our updated switching forces diagram at the end of the Discovery phase" />
-        </a>
-    </li>
-    <li>
-        <a href="/">
-            <img src="{{ "/assets/images/carousel-presenting-discovery.jpg" | relative_url }}" alt="Presenting our findings at the final show and tell of the Discovery phase" />
-        </a>
-    </li>
-</ul>
+<div class="d-none d-lg-block">
+    <ul id="carousel">
+        <li>
+            <a href="/">
+                <img src="{{ "/assets/images/carousel-bradford.jpg" | relative_url }}" alt="Face to face user research session with Bradford MDC during the Discovery phase" />
+            </a>
+        </li>
+        <li>
+            <a href="/">
+                <img src="{{ "/assets/images/carousel-huntingdonshire.jpg" | relative_url }}" alt="Group user research session with Huntingdonshire District Council during the Discovery phase" />
+            </a>
+        </li>
+        <li>
+            <a href="/">
+                <img src="{{ "/assets/images/carousel-disco-final-attendees.jpg" | relative_url }}" alt="A strong in-person audience at the final show &amp; tell of the Discovery phase." />
+            </a>
+        </li>
+        <li>
+            <a href="/">
+                <img src="{{ "/assets/images/carousel-switching-forces.jpg" | relative_url }}" alt="Our updated switching forces diagram at the end of the Discovery phase" />
+            </a>
+        </li>
+        <li>
+            <a href="/">
+                <img src="{{ "/assets/images/carousel-presenting-discovery.jpg" | relative_url }}" alt="Presenting our findings at the final show and tell of the Discovery phase" />
+            </a>
+        </li>
+    </ul>
+</div>
 <!-- END OF HOMEPAGE CAROUSEL -->
 
 <!--<div class="container p-0">

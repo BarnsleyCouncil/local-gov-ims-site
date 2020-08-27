@@ -518,10 +518,10 @@ footer a {
     background: #404040;
   }
   .theme-color--light .breadcrumb-list_item_link {
-    color: #808080 !important;
+    color: #222222 !important;
   }
   .theme-color--light .breadcrumb-list_item--active {
-    color: #343434;
+    color: #222222;
     font-weight: 700;
   }
   .theme-color--light .header {
@@ -636,10 +636,10 @@ footer a {
     background-color: #e6e6e6;
   }
   .theme-color--light footer a {
-    color: #608a20;
+    color: #222222;
   }
   .theme-color--light footer a:hover {
-    color: #446117;
+    color: #0000FF;
   }
   .theme-color--light footer hr {
     border-top: 1px solid #595959;
