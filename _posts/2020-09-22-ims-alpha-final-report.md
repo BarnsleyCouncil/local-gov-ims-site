@@ -15,3 +15,5 @@ We've spent a little while tweaking our report but I'm pleased to be able to fin
 There are various documents linked from within the report too to supplement the data and findings.
 
 We are very much open to feedback and welcome comments via Slack, Twitter or email (address in the footer).
+
+This follows [our recorded 4th show and tell session](/20200825).
