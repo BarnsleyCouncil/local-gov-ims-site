@@ -16,7 +16,13 @@ Specifically, our final alpha report included goals and objectives but lacked a 
 
 Four months on (a gap largely due to a restructure of the IT department in Barnsley) we're getting the band back together to consider how we generate that plan and that detail. 
 
-We've engaged the services of DXW once more to help us facilitate a workshop with key stakeholders on February 12th. The learning from that session will be collated into a plan and to take us a step further. That plan with its spending forecast will be formed into a bid document. We'll submit that bid document to MHCLG seeking the funding we need to proceed.
+We've engaged the services of DXW once more to help us facilitate a workshop with key stakeholders on February 12th that will aim to:
+
+* Agree the scope of the work
+* Agree the milestones for delivery
+* Identify costs and financial support need 
+
+The learning from that session will be collated into a plan and to take us a step further. That plan with its spending forecast will be formed into a bid document. We'll submit that bid document to MHCLG seeking the funding we need to proceed.
 
 Our outline plan at the moment breaks the beta phase into a Private Beta:
 
@@ -30,6 +36,4 @@ Followed by a Public Beta:
 
 * Work with both the public and private sector to on-board other councils
 
-So far the workshop will include people from Dorset, Huntingdonshire, Barnsley and DXW. We'll be inviting interested council's to join us too as we're very keen to hear from those who might like to be early adopters. We're also pleased to have Placecube attending from the private sector. 
-
-Please contact us if you'd like to attend too - our contact details are in the footer of this page.
+So far the workshop will include people from Dorset, Huntingdonshire, Barnsley and DXW. We'll be inviting interested council's to join us too as we're very keen to hear from those who might like to be early adopters. We're also pleased to have Placecube attending from the private sector.
