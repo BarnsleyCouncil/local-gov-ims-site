@@ -15,7 +15,7 @@ The income management system (IMS) project is in alpha. The project is a collabo
 What’s been happening 
 ======================
 
-At the beginning of last week we continued to progress our first sprint, this ended on Tuesday, and we held our first show and tell in the afternoon. [Here are the show and tell slides](https://docs.google.com/presentation/d/1g0mavgV3Vavor16CLFI3oiysTUqp2-u8G9QwRyen9HI/edit?usp=sharing). 
+At the beginning of last week we continued to progress our first sprint, this ended on Tuesday, and we held our first show and tell in the afternoon. [Here are the show and tell slides](https://docs.google.com/presentation/d/1g0mavgV3Vavor16CLFI3oiysTUqp2-u8G9QwRyen9HI). 
 
 We got an enormous amount done in the first sprint, understanding how the IMS fits into a wider ecosystems of processes and technology solutions. We defined our research plan to extend the things that the discovery found with specifics about how councils procure their IMS. And we explored the likely technical architecture, both in terms of the target infrastructure and the features that we expect to ‘bundle’ with the IMS.
 

@@ -13,7 +13,7 @@ We started the week interview [Sheffield City Council](https://www.sheffield.gov
 
 Having closed our survey on Monday, we then spent Wednesday in Leeds:
 
-*   Boiling down all the needs we'd heard from all of our research into a set of [user need statements](https://docs.google.com/spreadsheets/d/1sccrAIaRHPd-ITuyBAmjzp8gmbZz-sLrbLJHZme3NRM/edit?usp=sharing)
+*   Boiling down all the needs we'd heard from all of our research into a set of [user need statements](https://docs.google.com/spreadsheets/d/1sccrAIaRHPd-ITuyBAmjzp8gmbZz-sLrbLJHZme3NRM)
 *   Summing up our tech chats into [a digestable "onion"](https://miro.com/app/board/o9J_kvxjiRY=/) that we could present
 *   Agreeing our conclusions, recommendations and options for 'what next?'
 *   Working on the benefits case for the project

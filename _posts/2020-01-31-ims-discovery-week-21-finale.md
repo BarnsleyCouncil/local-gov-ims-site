@@ -18,7 +18,7 @@ Our final Show & Tell for the project was on Tuesday and the planning and delive
 
 ![Our Switching Forces Miro board](https://pbs.twimg.com/media/EPYVcZxXUAAQRs6?format=jpg&name=4096x4096)
 
-Our slides incidentally were an extract of our main [Discovery Report](https://docs.google.com/presentation/d/1vrBUy9jQuKuwhOk-v6FOh6IHSpAyL4s86qwiaH7J5dE/edit?usp=sharing) - we took a copy, reorganised a few things and arranged to split up their deliver between the team. Using presentation slides is a great way to write a report by the way. When we started the project I was expecting we'd have an enormous Word document at the end. Rather we have a Google Slides presentation that includes links out to the various Google Docs, Google Sheets and Miro Boards that we've created throughout the project.
+Our slides incidentally were an extract of our main [Discovery Report](https://docs.google.com/presentation/d/1vrBUy9jQuKuwhOk-v6FOh6IHSpAyL4s86qwiaH7J5dE) - we took a copy, reorganised a few things and arranged to split up their deliver between the team. Using presentation slides is a great way to write a report by the way. When we started the project I was expecting we'd have an enormous Word document at the end. Rather we have a Google Slides presentation that includes links out to the various Google Docs, Google Sheets and Miro Boards that we've created throughout the project.
 
 ![Sharon, starting our show and tell presentation](https://pbs.twimg.com/media/EPXv5BvWAAE8DZt?format=jpg&name=4096x4096)
 

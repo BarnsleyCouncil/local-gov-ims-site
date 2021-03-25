@@ -10,7 +10,7 @@ redirect_from:
 We've spent a little while tweaking our report but I'm pleased to be able to finally share it:
 
 * [Final Report](https://docs.google.com/presentation/d/1Wr7QFCFdgeCUV_3Lb0-TM4GD66dkb8sCW5Dw9YinVQs)
-* [Benefits Case](https://docs.google.com/spreadsheets/d/17o96l1CCT5hftJyEGPv6yEiQK2SpHw0EnDAR2MHtxi8/edit?usp=sharing)
+* [Benefits Case](https://docs.google.com/spreadsheets/d/17o96l1CCT5hftJyEGPv6yEiQK2SpHw0EnDAR2MHtxi8)
 
 There are various documents linked from within the report too to supplement the data and findings.
 
